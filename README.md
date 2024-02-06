@@ -25,15 +25,6 @@ Make sure to install the executable and the required files like the SQL files an
 
 *The SQL connection change may be required as, at the time of testing, the remote access to the database may not be available which would pose a situation where the application can't remotely access the database when executed.*
 
-### Credits
-
-This project was developed by:
-
-* Marwan Ashraf 208059
-* Omar Sami 207474
-* Ahmed El-Morsy 211659
-* Youssef Salah 188683
-
 ### License
 
 This project is licensed under the GPLV3 License.
